@@ -1,1 +1,3 @@
 first feature in line 1
+
+line 3 to merge har har
